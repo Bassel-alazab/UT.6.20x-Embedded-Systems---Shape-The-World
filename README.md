@@ -8,6 +8,10 @@ Site: https://www.edx.org/course/embedded-systems-shape-the-world-microcontrolle
 Date: May - September 2017
 School: University of Texas at Austin
 
+# Certificate
+Part1 --> https://courses.edx.org/certificates/af61337e6074478885e2b3c285ea4be4 <br/>
+Part2 --> https://courses.edx.org/certificates/0f7e9a288483497da24a389087de6aa2 <br/>
+
 # Requirements
 IDE : Kiel uVsion 4   your simulate and hardware grader and test on this IDE <br/>
       site --> https://www.keil.com/demo/eval/armv4.htm <br/>
