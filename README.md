@@ -25,6 +25,6 @@ Electronic Component <br/>
     7 - slide pot <br/>
     8 - many of jumber (male-male , male-female ) <br/>
     
-# For Contact Or need any Question/help from me please send me via Gmail :- 
+# For Contact :- 
 bassel.alazab@gmail.com <br/>
 
